@@ -26,7 +26,6 @@ Undergraduate Level
 | 6.013 | [Electromagnetics and Applications](https://ocw.mit.edu/search/?q=6.013) |
 | 6.061 | [Introduction to Electric Power Systems](https://ocw.mit.edu/search/?q=6.061) |
 | 6.071J | [Introduction to Electronics, Signals, and Measurement](https://ocw.mit.edu/search/?q=6.071J) |
-| 6.079 | [Introduction to Convex Optimization](https://ocw.mit.edu/search/?q=6.079) |
 | 6.091 | [Hands-On Introduction to Electrical Engineering Lab Skills](https://ocw.mit.edu/search/?q=6.091) |
 | 6.101 | [Introductory Analog Electronics Laboratory](https://ocw.mit.edu/search/?q=6.101) |
 | 6.111 | [Introductory Digital Systems Laboratory](https://ocw.mit.edu/search/?q=6.111) |
